@@ -66,6 +66,10 @@
   width: 50%;
 }
 
+.header-right img {
+  border-radius: 15px;
+}
+
 .header button {
   background-color: #3882f6;
   color: #fff;
